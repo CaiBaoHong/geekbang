@@ -40,7 +40,7 @@ public class Question_26 {
         }
         int i = 0;//记录已处理的部分的指针
         // 通过j指针逐个元素检查
-        for (int j = 0; j < nums.length; j++) {
+        for (int j = 1; j < nums.length; j++) {
             if (nums[i] != nums[j]) {
                 i++;//i指针+1
                 nums[i] = nums[j];//通过复制元素覆盖重复值实现“删除重复元素”
