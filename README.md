@@ -43,7 +43,7 @@
 
 ### day02
 
-题目：[26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/submissions/ )
+题目：[26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 状态：[已完成](./src/main/java/org/geekbang/algs/day02/Question_26.java)
 
 ### day03
