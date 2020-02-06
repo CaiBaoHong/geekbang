@@ -40,4 +40,8 @@
 
 状态：[已完成](./src/main/java/org/geekbang/algs/day02/Question_26.java)
 
+### day03
 
+题目：[189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+
+状态：[已完成](./src/main/java/org/geekbang/algs/day03/Question_189.java)
