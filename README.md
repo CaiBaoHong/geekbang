@@ -54,3 +54,9 @@
 题目：[189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 
 状态：[已完成](./src/main/java/org/geekbang/algs/day03/Question_189.java)
+
+### day04
+
+题目：[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+
+状态：[已完成](./src/main/java/org/geekbang/algs/day04/Question_21.java)
