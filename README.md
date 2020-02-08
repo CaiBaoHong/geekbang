@@ -60,3 +60,9 @@
 题目：[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 状态：[已完成](./src/main/java/org/geekbang/algs/day04/Question_21.java)
+
+### day05
+
+题目：[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)
+
+状态：[已完成](./src/main/java/org/geekbang/algs/day05/Question_88.java)
