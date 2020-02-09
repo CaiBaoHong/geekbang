@@ -66,3 +66,9 @@
 题目：[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)
 
 状态：[已完成](./src/main/java/org/geekbang/algs/day05/Question_88.java)
+
+### day06
+
+题目：[283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+
+状态：[已完成](./src/main/java/org/geekbang/algs/day06/Question_283.java)
