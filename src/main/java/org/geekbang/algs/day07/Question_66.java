@@ -4,7 +4,7 @@ package org.geekbang.algs.day07;
  * 66. 加一
  * https://leetcode-cn.com/problems/plus-one
  */
-public class Question_283 {
+public class Question_66 {
 
     public static int[] plusOne(int[] digits) {
         for (int i = digits.length-1; i >=0 ; i--) {

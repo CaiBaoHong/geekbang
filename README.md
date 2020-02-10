@@ -72,3 +72,11 @@
 题目：[283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 
 状态：[已完成](./src/main/java/org/geekbang/algs/day06/Question_283.java)
+
+### day07
+
+题目：[66. 加一](https://leetcode-cn.com/problems/plus-one)
+
+状态：[已完成](./src/main/java/org/geekbang/algs/day07/Question_66.java)
+
+第一周总结：[这里](./src/main/java/org/geekbang/algs/day07/Summary.md)
